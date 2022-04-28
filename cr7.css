@@ -1,0 +1,25 @@
+h1
+{
+    color: blue;
+    font-family: papyrus;
+    text-align: center;
+    font-size: 80px;
+    
+}
+
+body
+{
+    margin: 100px;
+    border: 10px solid red;
+    box-shadow: 0px 20px 20px 0px rgba(226, 11, 180, 0.5);
+}
+
+#balon
+{
+    color: rgb(34, 231, 8);
+}
+
+.oro
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
